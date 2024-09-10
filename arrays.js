@@ -344,6 +344,12 @@ console.log(arr5)
 
 
 
+//  filter 
+
+// reduce 
+
+// map 
+
 
 
 
